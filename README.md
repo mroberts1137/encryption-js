@@ -8,9 +8,11 @@ node sha256 [optional argument]
 
 It will output:
 
+```shell
 Original String: password
 SHA256 encryption: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
 If not argument is provided, 'password' is used by default.
+```
 
 # AES
 
